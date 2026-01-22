@@ -1,0 +1,2 @@
+def getPower():
+    return "power"

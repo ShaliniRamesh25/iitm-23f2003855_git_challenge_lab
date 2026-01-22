@@ -10,5 +10,10 @@ def log():
 def powerfunc():
     return "power"
 
+<<<<<<< HEAD
 def utilFunc():
     return "utilFunction"
+=======
+def getPower():
+    return "basepower"
+>>>>>>> feature2
