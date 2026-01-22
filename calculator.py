@@ -7,3 +7,5 @@ def subtract(a,b):
 def log():
     return True
 
+def powerfunc():
+    return "power"
