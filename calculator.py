@@ -9,3 +9,6 @@ def log():
 
 def powerfunc():
     return "power"
+
+def utilFunc():
+    return "utilFunction"
